@@ -1,0 +1,24 @@
+.container {
+    margin: 0 110px;
+    .data-table {
+        height: 400px;
+        width: 100%;
+    }
+    :global .css-ptkaw2-MuiDataGrid-root .MuiDataGrid-withBorderColor {
+        border: none;
+    }
+    :global .css-qvtrhg-MuiDataGrid-virtualScroller {
+        background: white;
+        border-radius: 10px;
+    }
+    :global .css-wop1k0-MuiDataGrid-footerContainer {
+        background: white;
+        border-radius: 10px;
+
+    }
+    .grid-table {
+        border: none;
+        border-radius: 10px;
+    }
+}
+
